@@ -1,0 +1,77 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "test.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/BossGrand/Documents/Tiled/IsometricTileSetDemo.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/BossGrand/Iso Tactics/Assets/SuperTiled2Unity/Examples/Overhead/Maps/TestOverhead.tmx": {
+            "scale": 2.6885,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 200.11158638646086,
+                "y": 120.14134275618372
+            }
+        },
+        "C:/Users/BossGrand/Iso Tactics/Assets/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset/overhead-objects.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/BossGrand/Iso Tactics/Assets/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset/scraps.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/BossGrand/Iso Tactics/Assets/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset/tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/BossGrand/Iso Tactics/Assets/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset/water.tsx": {
+            "scaleInDock": 1
+        },
+        "Demo.tmx": {
+            "scale": 1.1202083333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 430.27710619304446,
+                "y": 200.40915008368978
+            }
+        },
+        "IsoTileSet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "test.tmx": {
+            "scale": 1.1202083333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 399.9256090756928,
+                "y": 200.40915008368978
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/BossGrand/Iso Tactics/Assets/Tiled",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.renderOrder": null,
+    "map.tileHeight": 16,
+    "openFiles": [
+        "IsoTileSet.tsx",
+        "Demo.tmx",
+        "test.tmx"
+    ],
+    "project": "IsoTiled.tiled-project",
+    "recentFiles": [
+        "IsoTileSet.tsx",
+        "Demo.tmx",
+        "test.tmx",
+        "C:/Users/BossGrand/Iso Tactics/Assets/SuperTiled2Unity/Examples/Overhead/Maps/TestOverhead.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}

@@ -1,0 +1,4 @@
+repository "Iso Tactics@BossGrandiose@cloud"
+  path "/"
+    br "/main"
+    co "/main"
